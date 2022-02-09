@@ -1,5 +1,7 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://store.prpl.it/tvos/berks/p1.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit02,https://store.prpl.it/tvos/berks/p2.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit03,https://store.prpl.it/tvos/berks/p3.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit04,https://store.prpl.it/tvos/berks/p4.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://store.prpl.it/tvos/berks/p1.png,0:00:15,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit02,https://store.prpl.it/tvos/berks/p2.png,0:00:15,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit03,https://store.prpl.it/tvos/berks/p5.mp4,0:00:14,1:00:00,1/1/18 0:00,12/31/30 23:59,no
+Exhibit04,https://store.prpl.it/tvos/berks/p3.png,0:00:15,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit05,https://store.prpl.it/tvos/berks/p4.png,0:00:15,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit06,https://store.prpl.it/tvos/berks/p5.mp4,0:00:14,1:00:00,1/1/18 0:00,12/31/30 23:59,no
